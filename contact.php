@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <title>Contact</title>
 </head>
 <body>
@@ -54,15 +54,15 @@
     <!-- Dock de navigation -->
     <footer class="dock">
         <ul>
-            <li><a href="index.php"><img src="images/home.png" alt="Accueil"></a></li>
-            <li><a href="cours.php"><img src="images/open-book.png" alt="Cours"></a></li>
-            <li><a href="projets.php"><img src="images/project.png" alt="Projets"></a></li>
-            <li><a href="contact.php"><img src="images/contact.png" alt="Contact"></a></li>
-            <li><a href="login.php"><img src="images/lock.png" alt="Section sécurisée"></a></li>
+            <li><a href="index.php"><img src="home.png" alt="Accueil"></a></li>
+            <li><a href="cours.php"><img src="open-book.png" alt="Cours"></a></li>
+            <li><a href="projets.php"><img src="project.png" alt="Projets"></a></li>
+            <li><a href="contact.php"><img src="contact.png" alt="Contact"></a></li>
+            <li><a href="login.php"><img src="lock.png" alt="Section sécurisée"></a></li>
         </ul>
     </footer>
 
     <!-- Script -->
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
